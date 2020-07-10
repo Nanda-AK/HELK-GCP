@@ -1,5 +1,5 @@
 # HELK-GCP
-Installing HELK on GCP platform 
+Installing HELK on GCP platform (Below steps works good on AWS Also) 
 
 Below is the Details steps to install for HELK on Google Could Platfrom. 
 
